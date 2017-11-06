@@ -21,7 +21,7 @@ public class site extends Controller {
         render();
     }
     
-    public static void command() {
+    public static void command2() {
         render();
     }
 
