@@ -11,6 +11,7 @@ public class Application extends Controller {
 
     public static void index2() {
     	System.out.print(true);
+    	System.out.print(true);System.out.print(true);
         render();
     }
 
