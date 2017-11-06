@@ -11,7 +11,8 @@ public class Application extends Controller {
 
     public static void index() {
     	String a="";
-    	String a="";
+    	String b="";
+       	String c="";
         render();
     }
 
